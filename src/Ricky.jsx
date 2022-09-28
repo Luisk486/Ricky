@@ -19,7 +19,7 @@ const Ricky= () => {
    <div className='App'>
     <div className='head'>
       <div className='header'>
-      <img src="https://binaryfortressdownloads.com/Download/WPF/Images/22747/WallpaperFusion-rick-and-morty-1680x480.jpg" alt="" />
+      <img src="https://image.tmdb.org/t/p/original/nXRw4YdH4UaQT7n0pUjL4PAinoI.jpg" alt="" />
       </div>
     </div>
     <div className='input'>
